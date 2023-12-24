@@ -318,6 +318,7 @@ GUI implementation: [BallonsTranslator](https://github.com/dmMaze/BallonsTransla
 
 ### Recommended Modules
 Detector:
+- General: **default** or **ctd**
 - ENG: ??
 - JPN: ??
 - CHS: ??
@@ -326,20 +327,16 @@ Detector:
 
 
 OCR:
-- ENG: ??
-- JPN: ??
-- CHS: ??
-- KOR: 48px
+- ALL -> **48px**
 
 Translator:
+- General -> **gpt3.5**
 - JPN -> ENG: **Sugoi**
 - CHS -> ENG: ??
 - CHS -> JPN: ??
 - JPN -> CHS: ??
 - ENG -> JPN: ??
 - ENG -> CHS: ??
-
-Inpainter: ??
 
 Colorizer: **mc2**
 
